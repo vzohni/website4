@@ -4,8 +4,8 @@
 title: Victor Zohni
 description: "A website made by Victor Zohni"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "/website" #important: start with /
-url: "http://victorzohni.com"
+baseurl: "/" #important: start with /
+url: ""
 
 # Build settings
 markdown: kramdown
