@@ -123,13 +123,20 @@ a:focus {
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: {{ site.colors.primary }};
-	background-color: transparent;
+		background-color: transparent;	
+	}
+
+a:focus{
+	outline: none !important;
+
 }
 
 .navbar-default {
 	background-color: {{ site.colors.secondary }};
 	border-color: transparent;
+
 }
+
 
 .dropdown-menu {
 	background: {{ site.colors.secondary }};
