@@ -6,8 +6,6 @@ description: "A website made by Victor Zohni"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "/" #important: start with /
 url: "victorzohni.com"
-root: /octo-5
-
 
 # Build settings
 markdown: kramdown
